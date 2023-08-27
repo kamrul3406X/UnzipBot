@@ -19,10 +19,10 @@ class Data:
             print("Quitting the bot")
             raise SystemExit
     else:
-        START += f"\n\nBy @MysteryBots ♥"
+        START += f"\n\nBy @KHCloudFile ♥"
 
-    # About Message
-    ABOUT = "**About This Bot** \n\nThis is an open source Unzip bot by @MysteryBots \n\nSource : [Click Here](https://github.com/MysteryBots/UnzipBot) \n\nFramework : [Pyrogram](docs.pyrogram.org) \n\nLanguage : [Python](www.python.org) \n\nDeveloper : [Mყʂƚҽɾყ Bσყ](https://t.me/MysteryxD)"
+    # About Message disos
+    ABOUT = "**About This Bot** \n\nThis is an open source Unzip bot by @KHCloudFile \n\nSource : [Click Here](https://github.com/MysteryBots/UnzipBot) \n\nFramework : [Pyrogram](docs.pyrogram.org) \n\nLanguage : [Python](www.python.org) \n\nDeveloper : [Mყʂƚҽɾყ Bσყ](https://t.me/KHCloudFile )"
 
     if Config.OWNER_ID != 0:
         if Config.OWNER_NAME:
@@ -58,7 +58,7 @@ I'll unzip/unrar it and return you it's contents.
 /help - This Message.
 /start - Check if bot is alive.
 
-**Support** - @MysteryBots & @MysteryBotsChat
+**Support** - @KHCloudFile & @KHCloudFileHangOut
 """
     
     MODES = """
